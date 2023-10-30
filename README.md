@@ -1,5 +1,8 @@
 # Movie app with React
 
+![Project Logo](images/deploy-img.png)
+
+
 Welcome to the Movie project! This README provides an overview of the project, its components, and how to get started. Movie Gold allows you to explore and review your favorite movies.
 
 ## Deployment
