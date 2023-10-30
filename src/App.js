@@ -37,6 +37,7 @@ function App() {
     try
     {
         const response = await api.get(`/movies/${movieId}`);
+        console.log(response.data)
 
         const singleMovie = response.data;
 
