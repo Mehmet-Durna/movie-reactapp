@@ -1,10 +1,19 @@
-# Movie Gold - Version 1
+# Movie app with React
 
-Welcome to the Movie Gold project! This README provides an overview of the project, its components, and how to get started. Movie Gold allows you to explore and review your favorite movies.
+Welcome to the Movie project! This README provides an overview of the project, its components, and how to get started. Movie Gold allows you to explore and review your favorite movies.
+
+## Deployment
+
+You can access the deployed frontend of this project at the following URL:
+
+[Frontend Deployment](https://fullstack-movieapp.netlify.app)
+
+The frontend is hosted and available for you to explore the movie exploration and review features. Enjoy using the application and discovering your favorite movies!
+
 
 ## Code Explanation
 
-The Movie Gold project is built using React, a popular JavaScript library for building user interfaces. Below, I provide a general overview of the code structure and how the project components are organized:
+The Movie project is built using React, a popular JavaScript library for building user interfaces. Below, I provide a general overview of the code structure and how the project components are organized:
 
 ### Code Organization
 
@@ -17,7 +26,6 @@ The Movie Gold project is built using React, a popular JavaScript library for bu
 The project's `package.json` file includes dependencies and scripts for running, building, and testing the application.
 
 This code structure is designed to provide an organized and maintainable way to create a movie exploration and review application. It is extendable, allowing for the addition of new features and improvements as needed.
-
 
 ## Technologies Used
 
